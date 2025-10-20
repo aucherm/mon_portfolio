@@ -276,7 +276,7 @@ img:focus {
 
   .grille-projets {
     grid-template-columns: repeat(2, 1fr);
-    font-size: 3vh;
+    font-size:1vh;        //C'EST ÇA À CHANGER
   }
 
   /*    .grille-projets {
