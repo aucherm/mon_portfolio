@@ -267,11 +267,11 @@ img:focus {
     box-sizing: border-box
   }
 
- /*  .grille-projets {
+ .grille-projets {
     grid-template-columns: repeat(2, 1fr);
-  } */
+  } 
 
-   .grille-projets {
+/*    .grille-projets {
     grid-template-columns: 1fr;
     gap: 20px;
   }
@@ -288,12 +288,12 @@ img:focus {
     color: white;
     padding: 10px;
   }
-}
+} */
 
   .cta-button {
     margin: 20px auto;
   }
-}
+
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
 }
@@ -305,4 +305,4 @@ img:focus {
 
 
 
-//ceci est
+//15.28
