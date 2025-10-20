@@ -267,9 +267,28 @@ img:focus {
     box-sizing: border-box
   }
 
-  .grille-projets {
+ /*  .grille-projets {
     grid-template-columns: repeat(2, 1fr);
+  } */
+
+   .grille-projets {
+    grid-template-columns: 1fr;
+    gap: 20px;
   }
+
+  .carte-projet {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .infos-projet {
+    position: static;
+    opacity: 1;
+    background: #2E3066;
+    color: white;
+    padding: 10px;
+  }
+}
 
   .cta-button {
     margin: 20px auto;
