@@ -163,7 +163,7 @@ html {
   text-align: center;
 }
 
-.carte-projet:hover .infos-projet {
+.carte-projet:hover .infos-projet {. // effet au survol
   opacity: 1;
 }
 
@@ -270,6 +270,10 @@ img:focus {
   .grille-projets {
     grid-template-columns: repeat(2, 1fr);
   }
+.infos-projet {
+font-size: 2vh;
+
+}
 
   .cta-button {
     margin: 20px auto;
@@ -286,4 +290,3 @@ img:focus {
 
 
 
-//ceci est un essai
