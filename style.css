@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  font-weight: 400;
+}
+
+
 body {
   background-color: #FAE8EB;
   font-family: Quicksand;
@@ -48,7 +54,8 @@ body {
   width: 40%;
   height: auto;
   max-width: 450px;
-  flex-shrink: 0;/* empêche Flexbox de rétrécir la div */
+  flex-shrink: 0;
+  /* empêche Flexbox de rétrécir la div */
   align-self: center;
 }
 
@@ -267,11 +274,12 @@ img:focus {
     box-sizing: border-box
   }
 
- .grille-projets {
+  .grille-projets {
     grid-template-columns: repeat(2, 1fr);
-  } 
+    font-size: 3vh;
+  }
 
-/*    .grille-projets {
+  /*    .grille-projets {
     grid-template-columns: 1fr;
     gap: 20px;
   }
@@ -295,14 +303,13 @@ img:focus {
   }
 
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
-}
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {}
 
-.head {
-  font-size: 5vh;
-}
-
+  .head {
+    font-size: 5vh;
+  }
 
 
 
-//15.28
+
+  //15.28
