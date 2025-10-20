@@ -270,18 +270,7 @@ img:focus {
   .grille-projets {
     grid-template-columns: repeat(2, 1fr);
   }
-  .infos-projet h3 {
-    font-size: 1em;
-  }
 
-  .infos-projet p {
-    font-size: 0.8em;
-  }
-
-  .infos-projet .liens a {
-    font-size: 0.8em;
-  }
-}
 
   .cta-button {
     margin: 20px auto;
