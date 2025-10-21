@@ -63,7 +63,7 @@ body {
   width: 70%;
   height: auto;
   border-radius: 15%;
-  border: solid #BA80B2;
+  border: solid #BA80B2 ;
   margin: 20px;
 }
 
@@ -87,8 +87,8 @@ body {
 
 
 .cta-button {
-  background-color: #BA80B2;
-  color: #2E3066;
+  background-color: #2E3066;
+  color: #FAE8EB;
   border: none;
   padding: 15px 30px;
   font-size: 18px;
@@ -201,6 +201,7 @@ html {
   display: grid;
   grid-column: 1;
   text-align: center;
+  gap: 1em;
 
 }
 
