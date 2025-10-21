@@ -25,10 +25,10 @@ Le **portfolio** (racine du dépôt) présente :
 
 ### Structure du site :
 Portfolio/
-│
+
 ├── font/
 │ └── <Quicksand.ttf>
-│
+
 ├── pictures/
 │ ├── paw_models.jpg
 │ ├── pick_a_number.png
@@ -36,8 +36,8 @@ Portfolio/
 │ ├── desktop.png
 │ ├── mobile.png
 │ └── avatar3.png
-│
-│
+
+
 ├── index.html
 └── style.css
 
