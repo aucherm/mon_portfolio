@@ -65,7 +65,6 @@ body {
   border-radius: 15%;
   border: solid #BA80B2;
   margin: 20px;
-
 }
 
 .myself {
@@ -75,13 +74,17 @@ body {
   flex-shrink: 0;
   font-size: 25px;
   text-align: center;
-
+  gap: 1em;
 }
 
 .iam {
   font-size: 30px;
-
 }
+
+ .myself p {
+  margin-bottom: 1em;
+}
+
 
 .cta-button {
   background-color: #BA80B2;
@@ -96,7 +99,6 @@ body {
   display: inline-block;
   margin-top: 50px;
   margin-left: 90px;
-
 }
 
 .cta-button:hover {
@@ -251,12 +253,10 @@ img:focus {
     flex-shrink: 0;
     font-size: 20px;
     text-align: center;
-
   }
 
   .iam {
     font-size: 30px;
-
   }
 
   #portfolio {
@@ -276,7 +276,7 @@ img:focus {
 
   .grille-projets {
     grid-template-columns: repeat(2, 1fr);
-    font-size:1vh;        //C'EST ÇA À CHANGER
+    font-size: 1vh; //C'EST ÇA À CHANGER
   }
 
   /*    .grille-projets {
