@@ -53,6 +53,5 @@ ou
   ```bash
   npx live-server
 
-[Voir la démo en vidéo](demo.mov)
   
   
