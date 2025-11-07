@@ -1,20 +1,22 @@
-# 🌐 Portfolio – Présentation & Exercices de Développement Web
+# 💼 Portfolio
 
-Bienvenue sur mon dépôt **Portfolio** !  
-Ce projet **mon site personnel** – qui présente qui je suis et mes réalisations 
+Bienvenue sur mon **Portfolio personnel**, un site web simple et élégant présentant mes **projets**, mes **compétences**, et un aperçu de mon **parcours créatif** ✨.  
+Il a été entièrement conçu en **HTML** et **CSS**, avec une attention particulière portée à la **clarté**, à la **lisibilité** et à l’**esthétique responsive**.
+
+---
+
+## 🎨 Aperçu du site
+
+Ce portfolio met en avant :
+- 💻 Mes **projets web** (jeux, mini-sites, expériences interactives)
+- 🧠 Mes **compétences techniques** et créatives
+- 📱 Un design **responsive** adapté à tous les écrans (ordinateur, tablette, mobile)
+- 👤 Une **présentation personnelle** claire et moderne  
+
+Chaque section vise à montrer mon style, ma personnalité et mon approche du développement web.
 
 ---
 
-## 🧭 Contenu du dépôt
-
-| Dossier / Fichier | Description |
-|--------------------|-------------|
-| **index.html** | Page principale de mon site portfolio |
-| **style.css** | Feuille de style principale du site |
-| **font/** | Polices utilisées dans le site |
-| **pictures/** | Images et visuels du portfolio |
-
----
 
 ## 👨‍💻 Mon site portfolio
 
@@ -24,6 +26,7 @@ Le **portfolio** (racine du dépôt) présente :
 - 📞 Mes informations de contact  
 
 ### Structure du site :
+
 Portfolio/
 
 ├── font/
@@ -37,13 +40,19 @@ Portfolio/
 │ ├── mobile.png
 │ └── avatar3.png
 
-
 ├── index.html
 └── style.css
 
 👉 Pour visualiser le site :
+
+- https://aucherm.github.io/mon_portfolio/
+ou
 - Ouvre `index.html` dans ton navigateur  
 ou  
 - Lance un serveur local :
   ```bash
   npx live-server
+
+[Voir la démo en vidéo](demo.mov)
+  
+  
